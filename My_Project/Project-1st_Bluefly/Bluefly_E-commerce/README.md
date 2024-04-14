@@ -10,7 +10,7 @@ Bluefly is the online shopping destination for the style obsessed. Shop thousand
 
 <h3> Deployment link </h3>
 
-<a href="https://teamcultfit.netlify.app/" target="_blank">https://teamcultfit.netlify.app/
+<a href="[(https://effortless-blini-633127.netlify.app/)](https://effortless-blini-633127.netlify.app/)"
  
 <hr>
 <h3> Tech Stack </h3>
@@ -58,7 +58,7 @@ Bluefly is the online shopping destination for the style obsessed. Shop thousand
  <h3>Contributers </h3>
  <ol>
   
-  <li>Dheeraj Kene: https://github.com/kakashi10-23 </li>
+  <li>Dheeraj Kene: [https://github.com/kakashi10-23](https://github.com/DheerajKene) </li>
   
  </ol>
 
