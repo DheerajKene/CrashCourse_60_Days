@@ -61,7 +61,7 @@ Bluefly is the online shopping destination for the style obsessed. Shop thousand
   
   <h4> Eat </h4>
   
-  ![2](https://user-images.githubusercontent.com/78145877/162580996-f9f5ec8f-1a36-419c-8668-31dbcb94d9e8.png)
+  ![2]([https://user-images.githubusercontent.com/78145877/162580996-f9f5ec8f-1a36-419c-8668-31dbcb94d9e8.png](https://github.com/DheerajKene/CrashCourse_60_Days/blob/main/My_Project/Project-1st_Bluefly/Bluefly_E-commerce/image.png))
   
   <ol>
    <li>Order</li>
