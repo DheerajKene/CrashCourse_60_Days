@@ -37,7 +37,7 @@ Bluefly is the online shopping destination for the style obsessed. Shop thousand
  <h3> Product Flow </h3>
  
  <h4> Landing Page <h4>
-![alt text](image.png)
+
   <p>This is the landing page of our best which is high engaging.</P>
   
   <ul>
