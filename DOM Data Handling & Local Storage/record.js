@@ -67,7 +67,9 @@ function showData(arr){
     arr.forEach(function(ele, i){
 
         let tr = document.createElement("tr");
+        tr.id = "dataRow"
         let td1 = document.createElement("td");
+        td1.className = "tdata"
         td1.innerHTML = ele.name;
 
         let td2 = document.createElement("td");
@@ -90,6 +92,7 @@ function showData(arr){
 
         let td8 = document.createElement("td");
         let btn = document.createElement("button");
+        btn.id = "btn"
         btn.innerHTML = "Delete";
         btn.addEventListener("click" ,function(){
             handleDelete(i)

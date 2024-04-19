@@ -1,1 +1,82 @@
-/* Fill CSS here */
+#form{
+    background-color: rgb(189, 161, 200);
+}
+.Inputes{
+    display: flex;
+    padding: 25px;
+    justify-content: space-evenly;
+}
+.Inputes label{
+    font-size: 20px;
+    font-family: Candara;
+    font-weight: 1000;
+    color: rgb(1, 83, 83);
+}
+.Inputes input{
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    color: rgb(2, 40, 40);
+    border-radius: 5px;
+    width: 230px;
+    height: 20px;
+    padding: 5px;
+}
+#department{
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    color: rgb(2, 40, 40);
+    border-radius: 5px;
+    width: 250px;
+    height: 30px;
+}
+#submit{
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    color: rgb(212, 220, 220);
+    border-radius: 5px;
+    width: 250px;
+    height: 35px;
+    background-color: rgb(11, 62, 62);
+}
+#table{
+    border: 1px solid red;
+    width: 100%;
+}
+.row{
+    padding: 20px;
+    background-color: rgb(59, 134, 113);
+    border: 3px solid rgb(250, 229, 234);
+}
+.row th{
+    padding: 12px;
+    width: 1000px;
+    font-size: 20px;
+    font-family: Candara;
+    color: rgb(235, 232, 230);
+}
+#dataRow{
+    border: 1px solid black;
+    text-align: center;
+}
+
+#dataRow td{
+    padding: 12px;
+    width: 1000px;
+    font-size: 20px;
+    font-family: Candara;
+    color: rgb(31, 15, 3);
+    font-weight: 500;
+    border: 1px dotted black;
+}
+#btn{
+    width: 80%;
+    height: 30px;
+    font-size: 15px;
+    font-family: Candara;
+    font-weight: 1000;
+    color: rgb(235, 232, 230);
+    background-color: rgb(59, 134, 113);
+}
